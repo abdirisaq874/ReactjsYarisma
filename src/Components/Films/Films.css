@@ -1,0 +1,17 @@
+.films_container {
+  overflow: scroll;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 10px;
+  width: 90vw;
+  margin: 50px auto;
+  -webkit-box-shadow: -2px -13px 25px 1px rgba(0, 0, 0, 0.75);
+          box-shadow: -2px -13px 25px 1px rgba(0, 0, 0, 0.75);
+  border-radius: 15px;
+}
+
+.films_container div img {
+  border-radius: 15px;
+}
+/*# sourceMappingURL=Films.css.map */
